@@ -1,0 +1,28 @@
+body,
+html {
+  background-color: lightgray;
+}
+.img {
+  height: 60%;
+}
+.srow {
+  margin-left: 0;
+  margin-right: 0;
+}
+.form-control {
+  border: 1px solid gray;
+}
+.col-md-10 {
+  background-color: white;
+}
+.upload {
+  width: 80px;
+  text-align: center;
+}
+.border {
+  border: 1px solid gray;
+  margin-right: 1px;
+}
+.borderbottom {
+  border-bottom: 1px solid gray;
+}
